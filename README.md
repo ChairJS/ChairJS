@@ -1,3 +1,3 @@
 # ChairJS
 
-Nothing Here Right Now
+Support Server: https://discord.gg/CH3e4Q8cuS
